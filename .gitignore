@@ -4,3 +4,5 @@
 deno.lock
 *.sh
 **/.DS_Store
+.vercel
+.env*
